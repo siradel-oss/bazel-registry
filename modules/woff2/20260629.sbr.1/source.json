@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/google/woff2/archive/fb9c3379f2605b10f3e8f1d9636664ab5576775c.tar.gz",
+  "strip_prefix": "woff2-fb9c3379f2605b10f3e8f1d9636664ab5576775c",
+  "integrity": "sha256-8y+AlB1iFjL9ZooA8+MLAM3mnfBMy0cwr7GAkUS8Ypk=",
+  "overlay": {
+    "MODULE.bazel": "sha256-RyYq9BIWZs8PPBmc9w104VSNXXy9dHnzXKxbbziGEAY=",
+    "BUILD.bazel": "sha256-ALp+GLHa1aeqMxCVZHgnLSZ1iFyc6SQ6UfD9J5By/go="
+  }
+}
