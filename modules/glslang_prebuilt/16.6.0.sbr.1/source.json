@@ -1,0 +1,8 @@
+{
+  "url": "https://github.com/siradel-oss/glslang-prebuilt/archive/refs/tags/v16.6.0.tar.gz",
+  "strip_prefix": "glslang-prebuilt-16.6.0",
+  "integrity": "sha256-7omSklc+QzD3/rWpD2TXS3nDgeTX0H7ofYLiMea8IqE=",
+  "patches": {
+    "module_dot_bazel_version.patch": "sha256-Lrpq5KDrndEZyFNCEV0nPAne++vFqQMmVGNih+DclxY="
+  }
+}

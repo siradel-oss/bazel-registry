@@ -62,7 +62,7 @@ The process is similar to the one described above, but you can use `create_from_
 
 This is useful for importing a Git repository that contains a Bazel module but that is not present in the BCR.
 
-Simply run the `create_from_bazel_github_tag.py` or `create_from_bazel_github_commit.py` script with the repository and tag or commit, and it will create the module for you and update the version number if you provided one that differs from the one in the repository.
+Simply run the `create_from_github_tag_bazel.py` or `create_from_github_commit_bazel.py` script with the repository and tag or commit, and it will create the module for you and update the version number if you provided one that differs from the one in the repository.
 
 ## Customize a module from the Bazel Central Registry
 
